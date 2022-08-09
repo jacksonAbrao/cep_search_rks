@@ -1,7 +1,7 @@
 name: cep_search_rks
 description: Package para consulta de endereço via cep.
 version: 0.0.1
-homepage:
+homepage: https://github.com/jacksonAbrao/cep_search_rks
 
 environment:
   sdk: '>=2.19.0-72.0.dev <3.0.0'
