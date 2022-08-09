@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:via_cep_searche/via_cep_searche.dart';
+import 'package:cep_search_rks/cep_search_rks.dart';
 
 void main() {
   runApp(const MyApp());
