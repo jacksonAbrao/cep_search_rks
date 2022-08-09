@@ -1,3 +1,3 @@
-library cep_searche_rks;
+library via_cep_searche;
 
 export 'src/model.dart';
